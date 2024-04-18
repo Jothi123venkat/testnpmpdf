@@ -1,0 +1,19 @@
+{
+  "name": "testnpmpdf",
+  "version": "1.0.0",
+  "description": "pdfdownload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jothi123venkat/testnpmpdf.git"
+  },
+  "author": "venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jothi123venkat/testnpmpdf/issues"
+  },
+  "homepage": "https://github.com/Jothi123venkat/testnpmpdf#readme"
+}
